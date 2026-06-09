@@ -64,4 +64,4 @@ The partner who helped turn a side project into a thriving hosting service trust
 
 Join hundreds of gamers who trust Command Server Hosting with their communities.
 
-[https://cpmmandservers.com]
+[https://commandservers.com]
